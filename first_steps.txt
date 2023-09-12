@@ -1,3 +1,1 @@
-Hello, world!
-
-My name is Emily.
+Hello, my name is Emily.
